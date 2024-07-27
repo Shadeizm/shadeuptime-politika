@@ -8,4 +8,4 @@ When you use some commands, they are used in the appropriate database and compan
 If your connections are disabled, your connections will be deleted. No codes or other parts of your connection can be viewed.
 
 ## COMMUNICATION
-### Here are some changes for you to contact us: https://discord.gg/uptimerobot shadehu (discord nickname)
+### Here are some changes for you to contact us: [Discord](https://discord.gg/uptimerobot) shadeshu (discord nickname)
